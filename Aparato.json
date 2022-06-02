@@ -1,0 +1,58 @@
+[
+    {
+        "__class__": "Televisor",
+        "__atributos__": {
+            "marca": "Samsung",
+            "modelo": "TV",
+            "color": "ROJO",
+            "pais": "China",
+            "precio": "20000",
+            "tipo": "vga",
+            "pulgadas": "50''",
+            "definicion": "HD",
+            "conexion": false
+        }
+    },
+    
+    {
+        "__class__": "Lavaropa",
+        "__atributos__": {
+            "marca": "Whirpool",
+            "modelo": 1,
+            "color": "Blanco",
+            "pais": "Argentina",
+            "precio": 300000,
+            "capacidad": 5,
+            "velocidad": "600rp",
+            "cantidad": 5,
+            "tipocarga": "Frontal"
+        }
+    },
+    {
+        "__class__": "Heladera",
+        "__atributos__": {
+            "marca": "Samsung",
+            "modelo": 1,
+            "color": "Blanco",
+            "pais": "Argentina",
+            "precio": 20000,
+            "capacidad": 50,
+            "freezer": true,
+            "ciclica": false
+        }
+    },
+    {
+        "__class__": "Televisor",
+        "__atributos__": {
+            "marca": "LG",
+            "modelo": 1,
+            "color": "Rojo",
+            "pais": "Argentina",
+            "precio": 25000,
+            "tipo": "VGA",
+            "pulgadas": "50''",
+            "definicion": "HD",
+            "conexion": true
+        }
+    }
+]

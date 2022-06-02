@@ -1,0 +1,46 @@
+{
+    "__class__": "Manejador",
+    "Aparato": [
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "LG",
+                "modelo": 1,
+                "color": "Rojo",
+                "pais": "Argentina",
+                "precio": 25000,
+                "tipo": "VGA",
+                "pulgadas": "50''",
+                "definicion":"HD",
+                "conexion": "True"
+            }
+        },
+        {
+            "__class__": "Heladera",
+            "__atributos__": {
+                "marca": "Samsung",
+                "modelo": 1,
+                "color": "Blanco",
+                "pais": "Argentina",
+                "precio": 20000,
+                "capacidad": 50,
+                "freezer": "True",
+                "ciclicla": "False"
+            }
+        },
+        {
+            "__class__": "Lavaropa",
+            "__atributos__": {
+                "marca": "Whirpool",
+                "modelo": 1,
+                "color": "Blanco",
+                "pais": "Argentina",
+                "precio": 300000,
+                "capacidad": 5,
+                "velocidad": "600rp",
+                "cantidad": 3,
+                "tipocarga": "Frontal"
+            }
+        }     
+    ]
+}
